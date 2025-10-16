@@ -1,6 +1,4 @@
-============================================================
 FILE ORGANIZER - Automatic File Organization Tool
-============================================================
 
 Enter the path of the directory to organize: C:\Users\John\Downloads
 
